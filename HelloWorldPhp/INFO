@@ -1,0 +1,6 @@
+package="HelloWorldPhp"
+version="1.0"
+maintainer="Rob van Aarle"
+description="Example package written in PHP to show the 'Hello World' message."
+reloadui="yes"
+arch="noarch"
