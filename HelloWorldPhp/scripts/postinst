@@ -3,4 +3,4 @@
 eval $(env | grep "^SYNOPKG_PKGDEST=")
 ret=`ln -s "${SYNOPKG_PKGDEST}/helloworldphp" /usr/syno/synoman/webman/3rdparty/helloworldphp`
 ret=`chown -R admin.users $SYNOPKG_PKGDEST`
-exit 0 
+exit 0

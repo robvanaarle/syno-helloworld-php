@@ -1,0 +1,12 @@
+{
+	".url": {
+		"RVA.ULT.HelloWorldPhp": {
+			"type": "legacy",
+			"allUsers": false,
+			"title": "HelloWorldPhp",
+			"desc": "Desc here",
+			"url": "/webman/3rdparty/helloworldphp/helloworld.cgi",
+      "texts": "texts"
+		}
+	}
+}
