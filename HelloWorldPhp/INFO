@@ -1,5 +1,5 @@
 package="HelloWorldPhp"
-version="1.1"
+version="1.2"
 maintainer="Rob van Aarle"
 maintainer_url="http://www.robvanaarle.nl"
 description="Example package written in PHP to show the 'Hello World' message."
